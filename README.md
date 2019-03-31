@@ -1,6 +1,6 @@
-# gRCP Example
+# gRPC Example
 
-Simple "Hello World" style example of gRCP. 
+Simple "Hello World" style example of gRPC. 
 
 ```
 npm install
